@@ -1,4 +1,30 @@
-## Hi there 👋
+
+# 👋 Olá, eu sou Fernando Vassoler Nunes!
+
+## 🚀 Sobre Mim
+- 💻 Estagiário de Redes
+- 👨‍💻 Estudante de Sistemas de Informação
+- 📍 Chapecó, SC, Brasil
+- 🌱 Atualmente aprendendo e aprimorando habilidades em *React, **Java* e *Redes*
+- 📫 *E-mail:* fernandovassnunes@gmail.com
+
+## 🛠 Tecnologias e Ferramentas
+![Java](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📚 Formação
+- *Bacharelando em Sistemas de Informação* - UnoChapecó (2023 - Atual)
+- *Curso de Desenvolvedor WEB* - UnoChapecó
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabreaw&show_icons=true&theme=radical)
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/fernando-vassoler-4a830b226/)
+- *E-mail:* fernandovassnunes@gmail.com 
 
 <!--
 **FernandoVass/FernandoVass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
