@@ -9,7 +9,7 @@
 - 📫 *E-mail:* fernandovassnunes@gmail.com
 
 ## 🛠 Tecnologias e Ferramentas
-![Java](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -20,7 +20,7 @@
 - *Curso de Desenvolvedor WEB* - UnoChapecó
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabreaw&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FernandoVass&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/fernando-vassoler-4a830b226/)
