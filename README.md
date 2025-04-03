@@ -5,7 +5,7 @@
 - 💻 Estagiário de Redes
 - 👨‍💻 Estudante de Sistemas de Informação
 - 📍 Chapecó, SC, Brasil
-- 🌱 Atualmente aprendendo e aprimorando habilidades em *React, **Java* e *Redes*
+- 🌱 Atualmente aprendendo e aprimorando habilidades em *React*, *Java* e *Redes*
 - 📫 *E-mail:* fernandovassnunes@gmail.com
 
 ## 🛠 Tecnologias e Ferramentas
