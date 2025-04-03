@@ -5,7 +5,7 @@
 - 💻 Estagiário de Redes
 - 👨‍💻 Estudante de Sistemas de Informação
 - 📍 Chapecó, SC, Brasil
-- 🌱 Atualmente aprendendo e aprimorando habilidades em *React*, *Java* e *Redes*
+- 🌱 Atualmente aprendendo e aprimorando habilidades em *React*, *Java*,*Linux* e *Redes*
 - 📫 *E-mail:* fernandovassnunes@gmail.com
 
 ## 🛠 Tecnologias e Ferramentas
@@ -17,7 +17,25 @@
 
 ## 📚 Formação
 - *Bacharelando em Sistemas de Informação* - UnoChapecó (2023 - Atual)
-- *Curso de Desenvolvedor WEB* - UnoChapecó
+- *Curso Formação de Desenvolvedores em TI* - UnoChapecó (2022-03 até 2022-12)
+- *Curso Acelera Net - Formação Técnica Básica de ISPs - NIC.BR (2025-02)
+
+##📋 **Competências**
+- *Bom trabalho em equipe;*
+- *Atendimento de Suporte/Clientes;*
+- *Boa comunicação;*
+- *Experiência em manutenção de redes(Empresariais);*
+- *Infraestrutura de Redes;*
+- *Consertos de Hardware(Computadores e impressoras[Básico]);*
+- *Conceitos de Lógica e Algoritmos de Programação;*
+- *Conhecimento base sobre desenvolvimento web(javascript,java,React);*
+- *Conhecimento sobre SQL.*
+
+
+##👨‍💼 **Experiência**
+- *Auxiliar de TI* - Autoviação chapecó(2023-02 até 2023-07)
+- *Auxiliar de TI* - ACB Bebidas(2023-07 até 2024-10)
+- *Estagiário de Redes* - IXCSOFT(2024-10 até atualmente)👨‍💼📊📈📁
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FernandoVass&show_icons=true&theme=radical)
