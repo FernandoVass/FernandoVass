@@ -35,7 +35,7 @@
 ## 👨‍💼 Experiência
 - *Auxiliar de TI* - Autoviação chapecó(2023-02 até 2023-07)
 - *Auxiliar de TI* - ACB Bebidas(2023-07 até 2024-10)
-- *Estagiário de Redes* - IXCSOFT(2024-10 até atualmente)👨‍💼📊📈📁
+- *Estagiário de Redes* - IXCSOFT(2024-10 até atualmente)
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FernandoVass&show_icons=true&theme=radical)
