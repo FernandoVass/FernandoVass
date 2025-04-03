@@ -20,7 +20,7 @@
 - *Curso Formação de Desenvolvedores em TI* - UnoChapecó (2022-03 até 2022-12)
 - *Curso Acelera Net - Formação Técnica Básica de ISPs - NIC.BR (2025-02)
 
-##📋 **Competências**
+##📋 Competências
 - *Bom trabalho em equipe;*
 - *Atendimento de Suporte/Clientes;*
 - *Boa comunicação;*
@@ -32,7 +32,7 @@
 - *Conhecimento sobre SQL.*
 
 
-##👨‍💼 **Experiência**
+##👨‍💼 Experiência
 - *Auxiliar de TI* - Autoviação chapecó(2023-02 até 2023-07)
 - *Auxiliar de TI* - ACB Bebidas(2023-07 até 2024-10)
 - *Estagiário de Redes* - IXCSOFT(2024-10 até atualmente)👨‍💼📊📈📁
